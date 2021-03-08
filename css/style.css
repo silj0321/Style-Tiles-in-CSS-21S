@@ -14,9 +14,9 @@ use the fonts in other ways in the font hierarchy etc. */
 
 /* change these */
 :root {
-  --bg-color: red;
-  --link-color: green;
-  --link-hover-color: blue;
+  --bg-color: black;
+  --link-color: black;
+  --link-hover-color: black;
   --color-4: hotpink;
   --color-5: rebeccapurple;
 
